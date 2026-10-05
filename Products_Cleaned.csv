@@ -1,0 +1,601 @@
+Product_ID,Product_Name,Category,Sub_Category,Cost,Selling_Price,Price_Check
+20001,Smartphones Product 01,Electronics,Smartphones,39428.50,52588.16,OK
+20002,Smartphones Product 02,Electronics,Smartphones,33614.04,42801.64,OK
+20003,Smartphones Product 03,Electronics,Smartphones,40709.27,65418.32,OK
+20004,Smartphones Product 04,Electronics,Smartphones,5094.47,7995.31,OK
+20005,Smartphones Product 05,Electronics,Smartphones,31659.72,42643.10,OK
+20006,Smartphones Product 06,Electronics,Smartphones,37606.22,60235.44,OK
+20007,Smartphones Product 07,Electronics,Smartphones,22462.84,31546.76,OK
+20008,Smartphones Product 08,Electronics,Smartphones,31766.43,40410.40,OK
+20009,Smartphones Product 09,Electronics,Smartphones,3686.40,5213.83,OK
+20010,Smartphones Product 10,Electronics,Smartphones,14588.05,17672.62,OK
+20011,Smartphones Product 11,Electronics,Smartphones,6520.62,8193.20,OK
+20012,Smartphones Product 12,Electronics,Smartphones,15365.93,21027.03,OK
+20013,Smartphones Product 13,Electronics,Smartphones,43056.43,59961.11,OK
+20014,Smartphones Product 14,Electronics,Smartphones,41124.88,58525.89,OK
+20015,Smartphones Product 15,Electronics,Smartphones,7324.28,11509.86,OK
+20016,Smartphones Product 16,Electronics,Smartphones,987.50,1413.97,OK
+20017,Smartphones Product 17,Electronics,Smartphones,15546.15,21284.53,OK
+20018,Smartphones Product 18,Electronics,Smartphones,35936.25,41424.73,OK
+20019,Smartphones Product 19,Electronics,Smartphones,8409.30,13087.68,OK
+20020,Smartphones Product 20,Electronics,Smartphones,24660.32,31544.43,OK
+20021,Smartphones Product 21,Electronics,Smartphones,22524.80,30441.29,OK
+20022,Smartphones Product 22,Electronics,Smartphones,34649.37,52953.55,OK
+20023,Smartphones Product 23,Electronics,Smartphones,20974.47,27014.06,OK
+20024,Smartphones Product 24,Electronics,Smartphones,789.88,1095.00,OK
+20025,Laptops Product 01,Electronics,Laptops,26766.51,38884.46,OK
+20026,Laptops Product 02,Electronics,Laptops,39091.98,54091.96,OK
+20027,Laptops Product 03,Electronics,Laptops,32489.82,39429.59,OK
+20028,Laptops Product 04,Electronics,Laptops,34438.95,47270.11,OK
+20029,Laptops Product 05,Electronics,Laptops,31323.12,49101.38,OK
+20030,Laptops Product 06,Electronics,Laptops,11615.76,17229.68,OK
+20031,Laptops Product 07,Electronics,Laptops,5765.37,6951.99,OK
+20032,Laptops Product 08,Electronics,Laptops,12940.67,15728.93,OK
+20033,Laptops Product 09,Electronics,Laptops,20518.30,32496.86,OK
+20034,Laptops Product 10,Electronics,Laptops,3577.57,4764.20,OK
+20035,Laptops Product 11,Electronics,Laptops,9548.81,13171.42,OK
+20036,Laptops Product 12,Electronics,Laptops,28633.89,45140.59,OK
+20037,Laptops Product 13,Electronics,Laptops,1302.98,1868.59,OK
+20038,Laptops Product 14,Electronics,Laptops,31122.12,37888.82,OK
+20039,Laptops Product 15,Electronics,Laptops,42207.57,50247.04,OK
+20040,Laptops Product 16,Electronics,Laptops,14578.81,18504.21,OK
+20041,Laptops Product 17,Electronics,Laptops,3284.05,4926.05,OK
+20042,Laptops Product 18,Electronics,Laptops,23129.54,31538.57,OK
+20043,Laptops Product 19,Electronics,Laptops,9175.09,12583.02,OK
+20044,Laptops Product 20,Electronics,Laptops,40580.51,53874.73,OK
+20045,Laptops Product 21,Electronics,Laptops,23016.88,37157.01,OK
+20046,Laptops Product 22,Electronics,Laptops,31182.32,36512.29,OK
+20047,Laptops Product 23,Electronics,Laptops,15123.47,24775.15,OK
+20048,Laptops Product 24,Electronics,Laptops,38966.76,62009.48,OK
+20049,Headphones Product 01,Electronics,Headphones,42048.63,61675.93,OK
+20050,Headphones Product 02,Electronics,Headphones,35167.78,51934.25,OK
+20051,Headphones Product 03,Electronics,Headphones,23895.70,33691.03,OK
+20052,Headphones Product 04,Electronics,Headphones,830.45,1051.29,OK
+20053,Headphones Product 05,Electronics,Headphones,1548.15,2128.51,OK
+20054,Headphones Product 06,Electronics,Headphones,32529.38,52668.68,OK
+20055,Headphones Product 07,Electronics,Headphones,857.84,1196.98,OK
+20056,Headphones Product 08,Electronics,Headphones,31568.28,46834.71,OK
+20057,Headphones Product 09,Electronics,Headphones,33941.57,53377.27,OK
+20058,Headphones Product 10,Electronics,Headphones,41158.77,51045.14,OK
+20059,Headphones Product 11,Electronics,Headphones,42991.49,66762.71,OK
+20060,Headphones Product 12,Electronics,Headphones,40521.08,53553.45,OK
+20061,Headphones Product 13,Electronics,Headphones,44936.13,51950.63,OK
+20062,Headphones Product 14,Electronics,Headphones,39213.51,58407.37,OK
+20063,Headphones Product 15,Electronics,Headphones,6415.45,10044.20,OK
+20064,Headphones Product 16,Electronics,Headphones,35748.17,50753.98,OK
+20065,Headphones Product 17,Electronics,Headphones,28608.36,34721.69,OK
+20066,Headphones Product 18,Electronics,Headphones,20749.17,24272.45,OK
+20067,Headphones Product 19,Electronics,Headphones,26081.89,35885.23,OK
+20068,Headphones Product 20,Electronics,Headphones,4077.99,5529.53,OK
+20069,Headphones Product 21,Electronics,Headphones,19844.85,30140.32,OK
+20070,Headphones Product 22,Electronics,Headphones,2642.02,3849.33,OK
+20071,Headphones Product 23,Electronics,Headphones,23201.18,29870.52,OK
+20072,Headphones Product 24,Electronics,Headphones,33562.54,48044.04,OK
+20073,Cameras Product 01,Electronics,Cameras,23534.93,38271.93,OK
+20074,Cameras Product 02,Electronics,Cameras,36702.87,45996.58,OK
+20075,Cameras Product 03,Electronics,Cameras,17611.58,26090.59,OK
+20076,Cameras Product 04,Electronics,Cameras,24866.54,33951.54,OK
+20077,Cameras Product 05,Electronics,Cameras,44164.70,54453.52,OK
+20078,Cameras Product 06,Electronics,Cameras,15400.01,20761.08,OK
+20079,Cameras Product 07,Electronics,Cameras,3309.02,4579.60,OK
+20080,Cameras Product 08,Electronics,Cameras,23725.42,30423.06,OK
+20081,Cameras Product 09,Electronics,Cameras,43293.66,61375.91,OK
+20082,Cameras Product 10,Electronics,Cameras,26284.52,41974.02,OK
+20083,Cameras Product 11,Electronics,Cameras,12522.33,18371.46,OK
+20084,Cameras Product 12,Electronics,Cameras,20353.54,27186.76,OK
+20085,Cameras Product 13,Electronics,Cameras,17132.12,19907.80,OK
+20086,Cameras Product 14,Electronics,Cameras,36995.23,53377.60,OK
+20087,Cameras Product 15,Electronics,Cameras,41986.68,66033.81,OK
+20088,Cameras Product 16,Electronics,Cameras,44323.81,51722.56,OK
+20089,Cameras Product 17,Electronics,Cameras,29265.83,47624.64,OK
+20090,Cameras Product 18,Electronics,Cameras,34641.23,45332.86,OK
+20091,Cameras Product 19,Electronics,Cameras,5286.28,7845.54,OK
+20092,Cameras Product 20,Electronics,Cameras,29712.65,38511.92,OK
+20093,Cameras Product 21,Electronics,Cameras,36303.44,53222.74,OK
+20094,Cameras Product 22,Electronics,Cameras,18809.24,26011.17,OK
+20095,Cameras Product 23,Electronics,Cameras,11335.39,16088.42,OK
+20096,Cameras Product 24,Electronics,Cameras,22717.12,36839.03,OK
+20097,Accessories Product 01,Electronics,Accessories,23041.88,35455.61,OK
+20098,Accessories Product 02,Electronics,Accessories,27735.83,35019.59,OK
+20099,Accessories Product 03,Electronics,Accessories,2467.36,3703.42,OK
+20100,Accessories Product 04,Electronics,Accessories,36155.12,57394.41,OK
+20101,Accessories Product 05,Electronics,Accessories,30846.70,42171.72,OK
+20102,Accessories Product 06,Electronics,Accessories,22291.96,34110.61,OK
+20103,Accessories Product 07,Electronics,Accessories,8220.79,11314.71,OK
+20104,Accessories Product 08,Electronics,Accessories,2663.92,3203.73,OK
+20105,Accessories Product 09,Electronics,Accessories,10578.04,15497.07,OK
+20106,Accessories Product 10,Electronics,Accessories,41424.36,55196.48,OK
+20107,Accessories Product 11,Electronics,Accessories,22640.57,32495.08,OK
+20108,Accessories Product 12,Electronics,Accessories,12984.77,19410.80,OK
+20109,Accessories Product 13,Electronics,Accessories,9754.82,12141.42,OK
+20110,Accessories Product 14,Electronics,Accessories,9460.22,13146.31,OK
+20111,Accessories Product 15,Electronics,Accessories,11446.93,15643.30,OK
+20112,Accessories Product 16,Electronics,Accessories,17115.47,26794.24,OK
+20113,Accessories Product 17,Electronics,Accessories,10052.93,13099.45,OK
+20114,Accessories Product 18,Electronics,Accessories,42869.11,54543.09,OK
+20115,Accessories Product 19,Electronics,Accessories,35911.08,43839.82,OK
+20116,Accessories Product 20,Electronics,Accessories,26505.77,31700.71,OK
+20117,Accessories Product 21,Electronics,Accessories,18597.20,30272.82,OK
+20118,Accessories Product 22,Electronics,Accessories,29007.84,36370.88,OK
+20119,Accessories Product 23,Electronics,Accessories,36445.96,53839.60,OK
+20120,Accessories Product 24,Electronics,Accessories,41765.31,52807.18,OK
+20121,Men Clothing Product 01,Fashion,Men Clothing,5676.86,8330.54,OK
+20122,Men Clothing Product 02,Fashion,Men Clothing,41133.17,63299.06,OK
+20123,Men Clothing Product 03,Fashion,Men Clothing,18647.73,25470.06,OK
+20124,Men Clothing Product 04,Fashion,Men Clothing,15133.63,24344.94,OK
+20125,Men Clothing Product 05,Fashion,Men Clothing,36571.22,46946.45,OK
+20126,Men Clothing Product 06,Fashion,Men Clothing,14601.07,22192.03,OK
+20127,Men Clothing Product 07,Fashion,Men Clothing,19230.94,27978.32,OK
+20128,Men Clothing Product 08,Fashion,Men Clothing,7207.06,11266.78,OK
+20129,Men Clothing Product 09,Fashion,Men Clothing,25147.28,39301.88,OK
+20130,Men Clothing Product 10,Fashion,Men Clothing,32239.73,43991.14,OK
+20131,Men Clothing Product 11,Fashion,Men Clothing,30705.25,36229.92,OK
+20132,Men Clothing Product 12,Fashion,Men Clothing,19768.15,27041.19,OK
+20133,Men Clothing Product 13,Fashion,Men Clothing,19073.82,23056.25,OK
+20134,Men Clothing Product 14,Fashion,Men Clothing,22042.01,33743.06,OK
+20135,Men Clothing Product 15,Fashion,Men Clothing,14705.90,22930.81,OK
+20136,Men Clothing Product 16,Fashion,Men Clothing,26449.78,39993.73,OK
+20137,Men Clothing Product 17,Fashion,Men Clothing,40422.06,56231.86,OK
+20138,Men Clothing Product 18,Fashion,Men Clothing,38060.31,46440.74,OK
+20139,Men Clothing Product 19,Fashion,Men Clothing,35083.84,54970.92,OK
+20140,Men Clothing Product 20,Fashion,Men Clothing,40677.16,48426.43,OK
+20141,Men Clothing Product 21,Fashion,Men Clothing,5484.34,6369.02,OK
+20142,Men Clothing Product 22,Fashion,Men Clothing,22884.46,28523.91,OK
+20143,Men Clothing Product 23,Fashion,Men Clothing,25657.87,40953.60,OK
+20144,Men Clothing Product 24,Fashion,Men Clothing,14884.38,17156.83,OK
+20145,Women Clothing Product 01,Fashion,Women Clothing,40071.54,58542.19,OK
+20146,Women Clothing Product 02,Fashion,Women Clothing,9267.20,13865.40,OK
+20147,Women Clothing Product 03,Fashion,Women Clothing,28568.70,38283.81,OK
+20148,Women Clothing Product 04,Fashion,Women Clothing,9743.45,16039.79,OK
+20149,Women Clothing Product 05,Fashion,Women Clothing,29025.15,33404.29,OK
+20150,Women Clothing Product 06,Fashion,Women Clothing,5870.30,7477.04,OK
+20151,Women Clothing Product 07,Fashion,Women Clothing,36637.89,50828.66,OK
+20152,Women Clothing Product 08,Fashion,Women Clothing,2940.65,3771.52,OK
+20153,Women Clothing Product 09,Fashion,Women Clothing,44137.00,67703.27,OK
+20154,Women Clothing Product 10,Fashion,Women Clothing,458.50,719.55,OK
+20155,Women Clothing Product 11,Fashion,Women Clothing,8853.99,11646.42,OK
+20156,Women Clothing Product 12,Fashion,Women Clothing,5547.88,6409.41,OK
+20157,Women Clothing Product 13,Fashion,Women Clothing,22804.51,29486.07,OK
+20158,Women Clothing Product 14,Fashion,Women Clothing,16367.44,20205.56,OK
+20159,Women Clothing Product 15,Fashion,Women Clothing,36338.76,44941.67,OK
+20160,Women Clothing Product 16,Fashion,Women Clothing,23399.10,32400.54,OK
+20161,Women Clothing Product 17,Fashion,Women Clothing,41407.75,68068.82,OK
+20162,Women Clothing Product 18,Fashion,Women Clothing,40782.60,61857.57,OK
+20163,Women Clothing Product 19,Fashion,Women Clothing,19523.69,23726.68,OK
+20164,Women Clothing Product 20,Fashion,Women Clothing,39177.70,59084.86,OK
+20165,Women Clothing Product 21,Fashion,Women Clothing,6147.94,7340.75,OK
+20166,Women Clothing Product 22,Fashion,Women Clothing,30424.81,48769.73,OK
+20167,Women Clothing Product 23,Fashion,Women Clothing,9819.69,13315.46,OK
+20168,Women Clothing Product 24,Fashion,Women Clothing,43408.52,70451.74,OK
+20169,Footwear Product 01,Fashion,Footwear,31516.70,43714.58,OK
+20170,Footwear Product 02,Fashion,Footwear,16936.70,22788.73,OK
+20171,Footwear Product 03,Fashion,Footwear,22843.43,34124.51,OK
+20172,Footwear Product 04,Fashion,Footwear,23112.71,29234.34,OK
+20173,Footwear Product 05,Fashion,Footwear,33951.35,46732.40,OK
+20174,Footwear Product 06,Fashion,Footwear,25896.94,39830.12,OK
+20175,Footwear Product 07,Fashion,Footwear,17434.58,28155.48,OK
+20176,Footwear Product 08,Fashion,Footwear,23076.25,34657.59,OK
+20177,Footwear Product 09,Fashion,Footwear,34042.04,45348.08,OK
+20178,Footwear Product 10,Fashion,Footwear,11800.62,19018.81,OK
+20179,Footwear Product 11,Fashion,Footwear,14278.67,17202.43,OK
+20180,Footwear Product 12,Fashion,Footwear,22435.08,35051.23,OK
+20181,Footwear Product 13,Fashion,Footwear,12870.67,17978.78,OK
+20182,Footwear Product 14,Fashion,Footwear,16429.06,19095.99,OK
+20183,Footwear Product 15,Fashion,Footwear,6406.44,9920.42,OK
+20184,Footwear Product 16,Fashion,Footwear,42069.79,48470.47,OK
+20185,Footwear Product 17,Fashion,Footwear,38788.30,58645.44,OK
+20186,Footwear Product 18,Fashion,Footwear,30897.91,42176.14,OK
+20187,Footwear Product 19,Fashion,Footwear,15088.00,20449.04,OK
+20188,Footwear Product 20,Fashion,Footwear,27165.55,44099.80,OK
+20189,Footwear Product 21,Fashion,Footwear,9512.03,15569.66,OK
+20190,Footwear Product 22,Fashion,Footwear,10670.96,16784.19,OK
+20191,Footwear Product 23,Fashion,Footwear,29786.30,45350.25,OK
+20192,Footwear Product 24,Fashion,Footwear,37463.31,43303.06,OK
+20193,Watches Product 01,Fashion,Watches,32657.26,53814.08,OK
+20194,Watches Product 02,Fashion,Watches,22383.73,31805.96,OK
+20195,Watches Product 03,Fashion,Accessories,4992.88,6592.52,OK
+20196,Watches Product 04,Fashion,Watches,27659.70,33467.84,OK
+20197,Watches Product 05,Fashion,Watches,15167.74,20081.37,OK
+20198,Watches Product 06,Fashion,Watches,36626.60,51966.76,OK
+20199,Watches Product 07,Fashion,Watches,25061.59,32358.14,OK
+20200,Watches Product 08,Fashion,Watches,14275.85,19637.87,OK
+20201,Watches Product 09,Fashion,Watches,36806.19,48159.79,OK
+20202,Watches Product 10,Fashion,Watches,14636.93,20997.01,OK
+20203,Watches Product 11,Fashion,Watches,37830.14,53035.70,OK
+20204,Watches Product 12,Fashion,Watches,5995.24,9638.37,OK
+20205,Watches Product 13,Fashion,Watches,21331.13,32783.84,OK
+20206,Watches Product 14,Fashion,Watches,2188.84,3432.34,OK
+20207,Watches Product 15,Fashion,Watches,2860.60,4673.62,OK
+20208,Watches Product 16,Fashion,Watches,40096.94,51456.19,OK
+20209,Watches Product 17,Fashion,Watches,10253.21,15807.17,OK
+20210,Watches Product 18,Fashion,Watches,7035.91,11145.90,OK
+20211,Watches Product 19,Fashion,Watches,1678.10,2476.55,OK
+20212,Watches Product 20,Fashion,Watches,11887.88,18679.31,OK
+20213,Watches Product 21,Fashion,Watches,17123.40,23396.48,OK
+20214,Watches Product 22,Fashion,Watches,6763.44,9895.77,OK
+20215,Watches Product 23,Fashion,Watches,21311.97,24601.39,OK
+20216,Watches Product 24,Fashion,Watches,32955.78,40009.48,OK
+20217,Bags Product 01,Fashion,Bags,23794.72,33777.56,OK
+20218,Bags Product 02,Fashion,Bags,13647.48,17254.75,OK
+20219,Bags Product 03,Fashion,Bags,14182.91,19132.81,OK
+20220,Bags Product 04,Fashion,Bags,42058.80,62440.47,OK
+20221,Bags Product 05,Fashion,Bags,43452.71,51816.73,OK
+20222,Bags Product 06,Fashion,Bags,2285.49,2695.08,OK
+20223,Bags Product 07,Fashion,Bags,38699.63,60648.35,OK
+20224,Bags Product 08,Fashion,Bags,19851.59,27151.84,OK
+20225,Bags Product 09,Fashion,Bags,19378.08,31435.92,OK
+20226,Bags Product 10,Fashion,Bags,11968.25,18062.31,OK
+20227,Bags Product 11,Fashion,Bags,5168.60,6619.76,OK
+20228,Bags Product 12,Fashion,Bags,27026.50,39156.59,OK
+20229,Bags Product 13,Fashion,Bags,25024.10,30322.93,OK
+20230,Bags Product 14,Fashion,Bags,34022.59,51223.08,OK
+20231,Bags Product 15,Fashion,Bags,30722.10,37316.90,OK
+20232,Bags Product 16,Fashion,Bags,10133.58,16268.23,OK
+20233,Bags Product 17,Fashion,Bags,21847.64,29690.40,OK
+20234,Bags Product 18,Fashion,Bags,39296.13,50984.09,OK
+20235,Bags Product 19,Fashion,Bags,37217.70,51016.06,OK
+20236,Bags Product 20,Fashion,Bags,28062.34,37390.69,OK
+20237,Bags Product 21,Fashion,Bags,41257.26,49636.80,OK
+20238,Bags Product 22,Fashion,Bags,9967.83,12472.80,OK
+20239,Bags Product 23,Fashion,Bags,11896.70,16384.17,OK
+20240,Bags Product 24,Fashion,Bags,5478.52,6406.73,OK
+20241,Furniture Product 01,Home,Furniture,25575.86,35833.27,OK
+20242,Furniture Product 02,Home,Furniture,15494.49,19141.13,OK
+20243,Furniture Product 03,Home,Furniture,5502.19,8773.31,OK
+20244,Furniture Product 04,Home,Furniture,19693.56,32026.50,OK
+20245,Furniture Product 05,Home,Furniture,14806.63,21563.41,OK
+20246,Furniture Product 06,Home,Furniture,25645.27,31576.45,OK
+20247,Furniture Product 07,Home,Furniture,22347.81,31115.88,OK
+20248,Furniture Product 08,Home,Furniture,22911.29,29807.01,OK
+20249,Furniture Product 09,Home,Furniture,11119.81,15070.10,OK
+20250,Furniture Product 10,Home,Furniture,41543.33,59602.00,OK
+20251,Furniture Product 11,Home,Furniture,21220.75,26478.20,OK
+20252,Furniture Product 12,Home,Furniture,41693.55,61699.86,OK
+20253,Furniture Product 13,Home,Furniture,44489.00,54917.21,OK
+20254,Furniture Product 14,Home,Furniture,17718.60,23323.76,OK
+20255,Furniture Product 15,Home,Furniture,15115.25,17631.16,OK
+20256,Furniture Product 16,Home,Furniture,24326.72,35380.96,OK
+20257,Furniture Product 17,Home,Furniture,2360.60,3753.15,OK
+20258,Furniture Product 18,Home,Furniture,9262.79,11335.92,OK
+20259,Furniture Product 19,Home,Furniture,8314.49,11314.72,OK
+20260,Furniture Product 20,Home,Furniture,3936.34,6148.27,OK
+20261,Furniture Product 21,Home,Furniture,30679.59,42524.61,OK
+20262,Furniture Product 22,Home,Furniture,22652.64,30649.23,OK
+20263,Furniture Product 23,Home,Furniture,32273.70,52496.25,OK
+20264,Furniture Product 24,Home,Furniture,25018.86,35819.50,OK
+20265,Kitchen Product 01,Home,Kitchen,23622.94,37916.23,OK
+20266,Kitchen Product 02,Home,Kitchen,28703.12,45558.84,OK
+20267,Kitchen Product 03,Home,Kitchen,26403.33,39581.45,OK
+20268,Kitchen Product 04,Home,Kitchen,29590.16,40549.00,OK
+20269,Kitchen Product 05,Home,Kitchen,6391.56,8698.59,OK
+20270,Kitchen Product 06,Home,Kitchen,39272.50,58042.22,OK
+20271,Kitchen Product 07,Home,Kitchen,42473.52,54763.54,OK
+20272,Kitchen Product 08,Home,Kitchen,21362.52,32506.48,OK
+20273,Kitchen Product 09,Home,Kitchen,6177.54,7408.13,OK
+20274,Kitchen Product 10,Home,Kitchen,33937.47,50316.83,OK
+20275,Kitchen Product 11,Home,Kitchen,21770.03,25762.08,OK
+20276,Kitchen Product 12,Home,Kitchen,28335.22,42056.30,OK
+20277,Kitchen Product 13,Home,Kitchen,13697.91,16367.93,OK
+20278,Kitchen Product 14,Home,Kitchen,22811.03,31779.21,OK
+20279,Kitchen Product 15,Home,Kitchen,13453.37,19263.86,OK
+20280,Kitchen Product 16,Home,Kitchen,27483.10,44283.48,OK
+20281,Kitchen Product 17,Home,Kitchen,34879.40,54222.53,OK
+20282,Kitchen Product 18,Home,Kitchen,8558.36,11802.63,OK
+20283,Kitchen Product 19,Home,Kitchen,9547.50,11872.78,OK
+20284,Kitchen Product 20,Home,Kitchen,22868.71,29501.70,OK
+20285,Kitchen Product 21,Home,Kitchen,9852.65,14905.36,OK
+20286,Kitchen Product 22,Home,Kitchen,1767.17,2696.81,OK
+20287,Kitchen Product 23,Home,Kitchen,40465.03,60793.81,OK
+20288,Kitchen Product 24,Home,Kitchen,8892.09,13497.86,OK
+20289,Decor Product 01,Home,Decor,22715.15,33368.26,OK
+20290,Decor Product 02,Home,Decor,17823.19,22192.65,OK
+20291,Decor Product 03,Home,Decor,1269.13,1929.83,OK
+20292,Decor Product 04,Home,Decor,19343.58,24586.88,OK
+20293,Decor Product 05,Home,Decor,28125.02,43489.05,OK
+20294,Decor Product 06,Home,Decor,23915.31,36606.78,OK
+20295,Decor Product 07,Home,Decor,15401.34,22740.40,OK
+20296,Decor Product 08,Home,Decor,27819.05,34402.43,OK
+20297,Decor Product 09,Home,Decor,33294.40,50944.20,OK
+20298,Decor Product 10,Home,Decor,29636.86,39706.33,OK
+20299,Decor Product 11,Home,Decor,24691.92,33806.11,OK
+20300,Decor Product 12,Home,Decor,382.66,442.22,OK
+20301,Decor Product 13,Home,Decor,9062.17,14558.44,OK
+20302,Decor Product 14,Home,Decor,28504.72,38336.91,OK
+20303,Decor Product 15,Home,Decor,27417.60,32406.14,OK
+20304,Decor Product 16,Home,Decor,4920.12,5857.21,OK
+20305,Decor Product 17,Home,Decor,36813.13,60739.69,OK
+20306,Decor Product 18,Home,Decor,10254.58,14267.63,OK
+20307,Decor Product 19,Home,Decor,6185.58,9840.55,OK
+20308,Decor Product 20,Home,Decor,7223.80,10203.29,OK
+20309,Decor Product 21,Home,Decor,26265.21,36516.74,OK
+20310,Decor Product 22,Home,Decor,2980.83,4449.46,OK
+20311,Decor Product 23,Home,Decor,39886.65,47665.28,OK
+20312,Decor Product 24,Home,Decor,32830.57,51234.39,OK
+20313,Appliances Product 01,Home,Appliances,7553.68,12441.25,OK
+20314,Appliances Product 02,Home,Appliances,13587.58,17730.44,OK
+20315,Appliances Product 03,Home,Appliances,25639.06,39984.76,OK
+20316,Appliances Product 04,Home,Appliances,20775.44,29561.88,OK
+20317,Appliances Product 05,Home,Appliances,27859.63,43079.03,OK
+20318,Appliances Product 06,Home,Appliances,29192.50,36040.13,OK
+20319,Appliances Product 07,Home,Appliances,27106.51,34057.39,OK
+20320,Appliances Product 08,Home,Appliances,19759.27,31276.59,OK
+20321,Appliances Product 09,Home,Appliances,5789.01,7704.90,OK
+20322,Appliances Product 10,Home,Appliances,25380.14,40236.74,OK
+20323,Appliances Product 11,Home,Appliances,35107.47,47816.10,OK
+20324,Appliances Product 12,Home,Appliances,22593.99,35542.37,OK
+20325,Appliances Product 13,Home,Appliances,39495.98,55858.41,OK
+20326,Appliances Product 14,Home,Appliances,9161.08,12817.00,OK
+20327,Appliances Product 15,Home,Appliances,41724.43,60721.51,OK
+20328,Appliances Product 16,Home,Appliances,34851.63,40405.31,OK
+20329,Appliances Product 17,Home,Appliances,28637.71,41502.94,OK
+20330,Appliances Product 18,Home,Appliances,21373.77,31836.98,OK
+20331,Appliances Product 19,Home,Appliances,38885.19,62784.71,OK
+20332,Appliances Product 20,Home,Appliances,11741.68,16466.66,OK
+20333,Appliances Product 21,Home,Appliances,13740.50,18677.63,OK
+20334,Appliances Product 22,Home,Appliances,22572.33,34821.08,OK
+20335,Appliances Product 23,Home,Appliances,41240.55,59538.22,OK
+20336,Appliances Product 24,Home,Appliances,44656.11,64012.57,OK
+20337,Bedding Product 01,Home,Bedding,36333.10,44305.51,OK
+20338,Bedding Product 02,Home,Bedding,594.64,691.87,OK
+20339,Bedding Product 03,Home,Bedding,40167.41,47693.54,OK
+20340,Bedding Product 04,Home,Bedding,27677.14,39803.62,OK
+20341,Bedding Product 05,Home,Bedding,35184.77,45977.09,OK
+20342,Bedding Product 06,Home,Bedding,16058.38,21304.39,OK
+20343,Bedding Product 07,Home,Bedding,7786.98,9764.46,OK
+20344,Bedding Product 08,Home,Bedding,9090.99,11117.20,OK
+20345,Bedding Product 09,Home,Bedding,34751.28,50560.88,OK
+20346,Bedding Product 10,Home,Bedding,25725.23,38286.58,OK
+20347,Bedding Product 11,Home,Bedding,15682.68,23760.21,OK
+20348,Bedding Product 12,Home,Bedding,12490.21,19470.33,OK
+20349,Bedding Product 13,Home,Bedding,27793.34,43380.53,OK
+20350,Bedding Product 14,Home,Bedding,2696.26,4237.49,OK
+20351,Bedding Product 15,Home,Bedding,4788.83,7108.07,OK
+20352,Bedding Product 16,Home,Bedding,10450.29,12261.83,OK
+20353,Bedding Product 17,Home,Bedding,11856.41,16025.79,OK
+20354,Bedding Product 18,Home,Bedding,6690.84,8027.79,OK
+20355,Bedding Product 19,Home,Bedding,44720.46,53202.33,OK
+20356,Bedding Product 20,Home,Bedding,8775.65,11201.39,OK
+20357,Bedding Product 21,Home,Bedding,14441.52,17555.59,OK
+20358,Bedding Product 22,Home,Bedding,37828.43,60991.88,OK
+20359,Bedding Product 23,Home,Bedding,24816.02,35574.20,OK
+20360,Bedding Product 24,Home,Bedding,44721.72,71192.53,OK
+20361,Skincare Product 01,Beauty,Skincare,18482.62,28268.20,OK
+20362,Skincare Product 02,Beauty,Skincare,12121.00,14253.51,OK
+20363,Skincare Product 03,Beauty,Skincare,1241.55,1762.34,OK
+20364,Skincare Product 04,Beauty,Skincare,22612.37,27708.23,OK
+20365,Skincare Product 05,Beauty,Skincare,38429.16,55394.03,OK
+20366,Skincare Product 06,Beauty,Skincare,17323.28,24303.46,OK
+20367,Skincare Product 07,Beauty,Skincare,4609.19,7374.41,OK
+20368,Skincare Product 08,Beauty,Skincare,13251.98,16396.70,OK
+20369,Skincare Product 09,Beauty,Skincare,19311.59,24923.28,OK
+20370,Skincare Product 10,Beauty,Skincare,14017.08,21897.95,OK
+20371,Skincare Product 11,Beauty,Skincare,24728.92,39959.08,OK
+20372,Skincare Product 12,Beauty,Skincare,42778.79,70404.23,OK
+20373,Skincare Product 13,Beauty,Skincare,6135.88,9807.75,OK
+20374,Skincare Product 14,Beauty,Skincare,13433.55,19675.13,OK
+20375,Skincare Product 15,Beauty,Skincare,39532.91,47298.66,OK
+20376,Skincare Product 16,Beauty,Skincare,7045.31,10684.84,OK
+20377,Skincare Product 17,Beauty,Skincare,15767.61,23296.96,OK
+20378,Skincare Product 18,Beauty,Skincare,5351.77,8756.56,OK
+20379,Skincare Product 19,Beauty,Skincare,22681.11,35955.71,OK
+20380,Skincare Product 20,Beauty,Skincare,30454.39,49514.84,OK
+20381,Skincare Product 21,Beauty,Skincare,25779.91,33596.21,OK
+20382,Skincare Product 22,Beauty,Skincare,27704.94,45669.99,OK
+20383,Skincare Product 23,Beauty,Skincare,36736.94,50604.41,OK
+20384,Skincare Product 24,Beauty,Skincare,36789.33,55236.08,OK
+20385,Haircare Product 01,Beauty,Haircare,42257.72,56304.09,OK
+20386,Haircare Product 02,Beauty,Haircare,2057.20,2454.68,OK
+20387,Haircare Product 03,Beauty,Haircare,34591.78,51736.65,OK
+20388,Haircare Product 04,Beauty,Haircare,33068.65,49069.06,OK
+20389,Haircare Product 05,Beauty,Haircare,20705.61,24516.34,OK
+20390,Haircare Product 06,Beauty,Haircare,37640.93,46689.51,OK
+20391,Haircare Product 07,Beauty,Haircare,44546.58,55803.62,OK
+20392,Haircare Product 08,Beauty,Haircare,3996.80,5346.83,OK
+20393,Haircare Product 09,Beauty,Haircare,14813.62,24269.35,OK
+20394,Haircare Product 10,Beauty,Haircare,17906.62,21009.91,OK
+20395,Haircare Product 11,Beauty,Haircare,44422.33,68554.12,OK
+20396,Haircare Product 12,Beauty,Haircare,44907.95,58774.13,OK
+20397,Haircare Product 13,Beauty,Haircare,5518.78,7443.99,OK
+20398,Haircare Product 14,Beauty,Haircare,6512.57,7967.62,OK
+20399,Haircare Product 15,Beauty,Haircare,40644.59,66939.69,OK
+20400,Haircare Product 16,Beauty,Haircare,44750.59,61273.70,OK
+20401,Haircare Product 17,Beauty,Haircare,10958.32,13544.67,OK
+20402,Haircare Product 18,Beauty,Haircare,17349.40,25147.48,OK
+20403,Haircare Product 19,Beauty,Haircare,33525.59,47210.11,OK
+20404,Haircare Product 20,Beauty,Haircare,37962.61,61113.48,OK
+20405,Haircare Product 21,Beauty,Haircare,39883.57,53228.73,OK
+20406,Haircare Product 22,Beauty,Haircare,42786.98,68952.77,OK
+20407,Haircare Product 23,Beauty,Haircare,18671.57,25405.56,OK
+20408,Haircare Product 24,Beauty,Haircare,3742.38,6057.03,OK
+20409,Makeup Product 01,Beauty,Makeup,4208.58,5873.37,OK
+20410,Makeup Product 02,Beauty,Makeup,32533.30,51722.48,OK
+20411,Makeup Product 03,Beauty,Makeup,25802.25,38478.62,OK
+20412,Makeup Product 04,Beauty,Makeup,32028.33,37088.34,OK
+20413,Makeup Product 05,Beauty,Makeup,42426.24,56425.24,OK
+20414,Makeup Product 06,Beauty,Makeup,8194.11,11362.51,OK
+20415,Makeup Product 07,Beauty,Makeup,33073.47,51715.98,OK
+20416,Makeup Product 08,Beauty,Makeup,32452.61,43813.23,OK
+20417,Makeup Product 09,Beauty,Makeup,30749.35,42001.66,OK
+20418,Makeup Product 10,Beauty,Makeup,44412.29,73201.78,OK
+20419,Makeup Product 11,Beauty,Makeup,11428.30,15904.35,OK
+20420,Makeup Product 12,Beauty,Makeup,26049.12,38243.23,OK
+20421,Makeup Product 13,Beauty,Makeup,19668.01,27774.12,OK
+20422,Makeup Product 14,Beauty,Makeup,25053.38,33671.10,OK
+20423,Makeup Product 15,Beauty,Makeup,14589.72,21407.64,OK
+20424,Makeup Product 16,Beauty,Makeup,20031.29,32772.69,OK
+20425,Makeup Product 17,Beauty,Makeup,17062.11,21292.17,OK
+20426,Makeup Product 18,Beauty,Makeup,19341.99,28596.41,OK
+20427,Makeup Product 19,Beauty,Makeup,20020.81,25883.74,OK
+20428,Makeup Product 20,Beauty,Makeup,22411.69,30782.43,OK
+20429,Makeup Product 21,Beauty,Makeup,42500.17,49276.75,OK
+20430,Makeup Product 22,Beauty,Makeup,17924.18,23668.78,OK
+20431,Makeup Product 23,Beauty,Makeup,10249.22,14585.89,OK
+20432,Makeup Product 24,Beauty,Makeup,27729.21,32030.10,OK
+20433,Fragrance Product 01,Beauty,Fragrance,30508.15,40921.61,OK
+20434,Fragrance Product 02,Beauty,Fragrance,41555.45,63237.31,OK
+20435,Fragrance Product 03,Beauty,Fragrance,23242.88,37787.18,OK
+20436,Fragrance Product 04,Beauty,Fragrance,31011.34,48192.61,OK
+20437,Fragrance Product 05,Beauty,Fragrance,43047.34,68667.79,OK
+20438,Fragrance Product 06,Beauty,Fragrance,3412.59,4283.17,OK
+20439,Fragrance Product 07,Beauty,Fragrance,28423.58,34974.03,OK
+20440,Fragrance Product 08,Beauty,Fragrance,21047.40,29257.75,OK
+20441,Fragrance Product 09,Beauty,Fragrance,20973.21,32744.44,OK
+20442,Fragrance Product 10,Beauty,Fragrance,22152.68,35097.67,OK
+20443,Fragrance Product 11,Beauty,Fragrance,34867.72,51298.30,OK
+20444,Fragrance Product 12,Beauty,Fragrance,26115.44,33065.24,OK
+20445,Fragrance Product 13,Beauty,Fragrance,34620.78,53739.14,OK
+20446,Fragrance Product 14,Beauty,Fragrance,22150.08,27913.27,OK
+20447,Fragrance Product 15,Beauty,Fragrance,34264.67,53112.44,OK
+20448,Fragrance Product 16,Beauty,Fragrance,25628.74,38406.70,OK
+20449,Fragrance Product 17,Beauty,Fragrance,34871.76,45186.47,OK
+20450,Fragrance Product 18,Beauty,Fragrance,12901.76,19404.18,OK
+20451,Fragrance Product 19,Beauty,Fragrance,23180.25,32595.13,OK
+20452,Fragrance Product 20,Beauty,Fragrance,43152.74,66872.59,OK
+20453,Fragrance Product 21,Beauty,Fragrance,11707.51,15842.47,OK
+20454,Fragrance Product 22,Beauty,Fragrance,37393.54,44371.53,OK
+20455,Fragrance Product 23,Beauty,Fragrance,14616.71,19291.95,OK
+20456,Fragrance Product 24,Beauty,Fragrance,17713.61,22665.78,OK
+20457,Personal Care Product 01,Beauty,Personal Care,28975.00,39044.59,OK
+20458,Personal Care Product 02,Beauty,Personal Care,24515.88,31534.69,OK
+20459,Personal Care Product 03,Beauty,Personal Care,38793.71,48604.09,OK
+20460,Personal Care Product 04,Beauty,Personal Care,39509.91,48974.32,OK
+20461,Personal Care Product 05,Beauty,Personal Care,16813.31,25885.45,OK
+20462,Personal Care Product 06,Beauty,Personal Care,22296.33,28285.09,OK
+20463,Personal Care Product 07,Beauty,Personal Care,29938.26,36340.14,OK
+20464,Personal Care Product 08,Beauty,Personal Care,9884.60,12636.14,OK
+20465,Personal Care Product 09,Beauty,Personal Care,26404.32,37655.71,OK
+20466,Personal Care Product 10,Beauty,Personal Care,23499.47,28168.90,OK
+20467,Personal Care Product 11,Beauty,Personal Care,35159.99,42750.77,OK
+20468,Personal Care Product 12,Beauty,Personal Care,42259.08,49975.93,OK
+20469,Personal Care Product 13,Beauty,Personal Care,39628.34,51472.77,OK
+20470,Personal Care Product 14,Beauty,Personal Care,31567.35,41561.85,OK
+20471,Personal Care Product 15,Beauty,Personal Care,32470.65,45152.84,OK
+20472,Personal Care Product 16,Beauty,Personal Care,23823.19,35930.55,OK
+20473,Personal Care Product 17,Beauty,Personal Care,6227.23,7990.61,OK
+20474,Personal Care Product 18,Beauty,Personal Care,37873.37,58510.81,OK
+20475,Personal Care Product 19,Beauty,Personal Care,44565.79,51762.20,OK
+20476,Personal Care Product 20,Beauty,Personal Care,6612.82,8720.05,OK
+20477,Personal Care Product 21,Beauty,Personal Care,31279.56,40906.53,OK
+20478,Personal Care Product 22,Beauty,Personal Care,15731.97,19880.78,OK
+20479,Personal Care Product 23,Beauty,Personal Care,40954.28,58309.77,OK
+20480,Personal Care Product 24,Beauty,Personal Care,7395.87,10658.23,OK
+20481,Fitness Product 01,Sports,Fitness,7387.94,9500.33,OK
+20482,Fitness Product 02,Sports,Fitness,31400.62,48014.37,OK
+20483,Fitness Product 03,Sports,Fitness,19630.58,24216.02,OK
+20484,Fitness Product 04,Sports,Fitness,9716.05,13794.88,OK
+20485,Fitness Product 05,Sports,Fitness,26605.12,42150.97,OK
+20486,Fitness Product 06,Sports,Fitness,12249.20,17834.79,OK
+20487,Fitness Product 07,Sports,Fitness,368.64,510.80,OK
+20488,Fitness Product 08,Sports,Fitness,18065.20,21860.24,OK
+20489,Fitness Product 09,Sports,Fitness,40132.90,48321.20,OK
+20490,Fitness Product 10,Sports,Fitness,12128.97,18399.58,OK
+20491,Fitness Product 11,Sports,Fitness,8337.82,9908.55,OK
+20492,Fitness Product 12,Sports,Fitness,43628.54,56576.11,OK
+20493,Fitness Product 13,Sports,Fitness,2965.98,3620.04,OK
+20494,Fitness Product 14,Sports,Fitness,10204.92,16625.81,OK
+20495,Fitness Product 15,Sports,Fitness,970.28,1500.44,OK
+20496,Fitness Product 16,Sports,Fitness,35195.98,49267.90,OK
+20497,Fitness Product 17,Sports,Fitness,41997.29,48578.97,OK
+20498,Fitness Product 18,Sports,Fitness,22410.45,28612.10,OK
+20499,Fitness Product 19,Sports,Fitness,34346.35,42473.47,OK
+20500,Fitness Product 20,Sports,Fitness,39409.66,53310.94,OK
+20501,Fitness Product 21,Sports,Fitness,6330.04,7389.53,OK
+20502,Fitness Product 22,Sports,Fitness,31102.98,50207.31,OK
+20503,Fitness Product 23,Sports,Fitness,43651.70,69282.43,OK
+20504,Fitness Product 24,Sports,Fitness,17681.71,28342.54,OK
+20505,Outdoor Product 01,Sports,Outdoor,29054.57,34332.58,OK
+20506,Outdoor Product 02,Sports,Outdoor,7896.21,10601.00,OK
+20507,Outdoor Product 03,Sports,Outdoor,13953.71,18390.65,OK
+20508,Outdoor Product 04,Sports,Outdoor,33139.99,39086.63,OK
+20509,Outdoor Product 05,Sports,Outdoor,27358.98,36067.90,OK
+20510,Outdoor Product 06,Sports,Outdoor,39737.72,46834.25,OK
+20511,Outdoor Product 07,Sports,Outdoor,43732.29,52061.69,OK
+20512,Outdoor Product 08,Sports,Outdoor,19692.69,31085.59,OK
+20513,Outdoor Product 09,Sports,Outdoor,14654.95,23082.18,OK
+20514,Outdoor Product 10,Sports,Outdoor,43351.73,52515.12,OK
+20515,Outdoor Product 11,Sports,Outdoor,21606.30,27340.55,OK
+20516,Outdoor Product 12,Sports,Outdoor,34574.72,41627.77,OK
+20517,Outdoor Product 13,Sports,Outdoor,34920.03,51950.86,OK
+20518,Outdoor Product 14,Sports,Outdoor,28502.56,38967.43,OK
+20519,Outdoor Product 15,Sports,Outdoor,22695.50,27239.23,OK
+20520,Outdoor Product 16,Sports,Outdoor,12327.44,19806.43,OK
+20521,Outdoor Product 17,Sports,Outdoor,20028.31,27066.83,OK
+20522,Outdoor Product 18,Sports,Outdoor,2368.25,3770.63,OK
+20523,Outdoor Product 19,Sports,Outdoor,33965.01,40616.19,OK
+20524,Outdoor Product 20,Sports,Outdoor,6970.95,8447.61,OK
+20525,Outdoor Product 21,Sports,Outdoor,29480.47,36244.86,OK
+20526,Outdoor Product 22,Sports,Outdoor,44780.71,64342.25,OK
+20527,Outdoor Product 23,Sports,Outdoor,39188.60,59371.89,OK
+20528,Outdoor Product 24,Sports,Outdoor,1345.68,1830.89,OK
+20529,Sportswear Product 01,Sports,Sportswear,16432.56,26720.89,OK
+20530,Sportswear Product 02,Sports,Sportswear,15391.37,22990.35,OK
+20531,Sportswear Product 03,Sports,Sportswear,26629.22,40431.67,OK
+20532,Sportswear Product 04,Sports,Sportswear,2991.96,4833.19,OK
+20533,Sportswear Product 05,Sports,Sportswear,44687.13,63776.73,OK
+20534,Sportswear Product 06,Sports,Sportswear,7603.61,12049.58,OK
+20535,Sportswear Product 07,Sports,Sportswear,29217.55,42715.13,OK
+20536,Sportswear Product 08,Sports,Sportswear,39849.83,60401.88,OK
+20537,Sportswear Product 09,Sports,Sportswear,41409.53,67447.51,OK
+20538,Sportswear Product 10,Sports,Sportswear,15683.43,19587.93,OK
+20539,Sportswear Product 11,Sports,Sportswear,17499.06,28589.16,OK
+20540,Sportswear Product 12,Sports,Sportswear,8815.35,12743.06,OK
+20541,Sportswear Product 13,Sports,Sportswear,4020.18,6296.58,OK
+20542,Sportswear Product 14,Sports,Sportswear,30152.23,42546.46,OK
+20543,Sportswear Product 15,Sports,Sportswear,28442.12,34373.01,OK
+20544,Sportswear Product 16,Sports,Sportswear,38799.49,51218.06,OK
+20545,Sportswear Product 17,Sports,Sportswear,7818.26,9048.83,OK
+20546,Sportswear Product 18,Sports,Sportswear,2966.41,4407.56,OK
+20547,Sportswear Product 19,Sports,Sportswear,32401.41,39673.50,OK
+20548,Sportswear Product 20,Sports,Sportswear,27355.86,38065.89,OK
+20549,Sportswear Product 21,Sports,Sportswear,42189.22,62549.81,OK
+20550,Sportswear Product 22,Sports,Sportswear,23534.79,30404.32,OK
+20551,Sportswear Product 23,Sports,Sportswear,20915.31,26636.71,OK
+20552,Sportswear Product 24,Sports,Sportswear,30607.89,44290.90,OK
+20553,Cycling Product 01,Sports,Cycling,13508.46,15616.26,OK
+20554,Cycling Product 02,Sports,Cycling,44229.64,52035.97,OK
+20555,Cycling Product 03,Sports,Cycling,24728.80,38972.81,OK
+20556,Cycling Product 04,Sports,Cycling,28043.12,40479.26,OK
+20557,Cycling Product 05,Sports,Cycling,32250.70,42056.94,OK
+20558,Cycling Product 06,Sports,Cycling,17686.43,21086.86,OK
+20559,Cycling Product 07,Sports,Cycling,460.18,590.08,OK
+20560,Cycling Product 08,Sports,Cycling,36686.88,53408.82,OK
+20561,Cycling Product 09,Sports,Cycling,6488.93,8845.93,OK
+20562,Cycling Product 10,Sports,Cycling,1123.97,1743.42,OK
+20563,Cycling Product 11,Sports,Cycling,20882.37,26905.79,OK
+20564,Cycling Product 12,Sports,Cycling,34623.93,56616.19,OK
+20565,Cycling Product 13,Sports,Cycling,18293.80,28039.26,OK
+20566,Cycling Product 14,Sports,Cycling,14626.85,22364.68,OK
+20567,Cycling Product 15,Sports,Cycling,43438.59,64079.55,OK
+20568,Cycling Product 16,Sports,Cycling,10942.78,16360.16,OK
+20569,Cycling Product 17,Sports,Cycling,38046.29,51433.14,OK
+20570,Cycling Product 18,Sports,Cycling,28084.79,35843.88,OK
+20571,Cycling Product 19,Sports,Cycling,20591.76,25387.98,OK
+20572,Cycling Product 20,Sports,Cycling,37640.34,45106.48,OK
+20573,Cycling Product 21,Sports,Cycling,2748.89,3895.72,OK
+20574,Cycling Product 22,Sports,Cycling,26315.82,42345.65,OK
+20575,Cycling Product 23,Sports,Cycling,9346.92,14384.93,OK
+20576,Cycling Product 24,Sports,Cycling,29072.10,44213.89,OK
+20577,Team Sports Product 01,Sports,Team Sports,7295.93,10018.99,OK
+20578,Team Sports Product 02,Sports,Team Sports,16184.61,24273.31,OK
+20579,Team Sports Product 03,Sports,Team Sports,26810.66,43802.39,OK
+20580,Team Sports Product 04,Sports,Team Sports,6458.60,8956.71,OK
+20581,Team Sports Product 05,Sports,Team Sports,31299.77,41766.16,OK
+20582,Team Sports Product 06,Sports,Team Sports,41562.90,65514.75,OK
+20583,Team Sports Product 07,Sports,Team Sports,39313.46,57182.28,OK
+20584,Team Sports Product 08,Sports,Team Sports,21357.83,28490.35,OK
+20585,Team Sports Product 09,Sports,Team Sports,5606.35,9105.38,OK
+20586,Team Sports Product 10,Sports,Team Sports,12047.26,18685.78,OK
+20587,Team Sports Product 11,Sports,Team Sports,782.52,1049.16,OK
+20588,Team Sports Product 12,Sports,Team Sports,25807.00,33734.65,OK
+20589,Team Sports Product 13,Sports,Team Sports,8926.85,10584.79,OK
+20590,Team Sports Product 14,Sports,Team Sports,44512.61,70917.71,OK
+20591,Team Sports Product 15,Sports,Team Sports,14227.77,16474.29,OK
+20592,Team Sports Product 16,Sports,Team Sports,24440.77,32035.62,OK
+20593,Team Sports Product 17,Sports,Team Sports,5429.90,8390.03,OK
+20594,Team Sports Product 18,Sports,Team Sports,15383.29,25173.61,OK
+20595,Team Sports Product 19,Sports,Team Sports,31851.67,50002.66,OK
+20596,Team Sports Product 20,Sports,Team Sports,28074.76,40170.82,OK
+20597,Team Sports Product 21,Sports,Team Sports,19404.58,23121.69,OK
+20598,Team Sports Product 22,Sports,Team Sports,33248.87,43885.87,OK
+20599,Team Sports Product 23,Sports,Team Sports,9051.54,10927.08,OK
+20600,Team Sports Product 24,Sports,Team Sports,3755.88,5212.07,OK
